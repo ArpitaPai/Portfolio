@@ -1,4 +1,4 @@
-# Data Scientist 
+# FP&A Analyst || Risk Data Analyst
 
 ### Education 
 Financial Engineering, Masters <br/>
