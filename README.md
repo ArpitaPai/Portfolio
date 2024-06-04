@@ -1,9 +1,9 @@
 # Data Scientist 
 
 ### Education 
-Financial Engineering, Masters
-Finance, MBA 
-Information Technology, Bachelors 
+# Financial Engineering, Masters
+# Finance, MBA 
+# Information Technology, Bachelors 
 
 ### Work Experience 
 Financial Planning and Analysis Consultant (Jan 2024 = Present) 
